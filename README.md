@@ -5,11 +5,6 @@
 ## <a name="about"></a>📖 About
 I am an Embedded Software Engineer with a strong passion in low-level programming, currently improving my skills at School 42. 
 Driven by a passion technology and safety-critical applications, I focus on writing highly efficient, reliable, and deterministic code.
-- Low-Level | System Programming (C).
-- Embedded Systems | Bare-metal/register-level programming, and GPIO protocols.
-- Finite State Machines (FSM) programming.
-- Testing | Automation (Python).
-- Engineering Tools: Git, Makefiles, GCC, GDB, Valgrind.
 
 ---
 
